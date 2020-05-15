@@ -12,7 +12,7 @@ Each ledger item added to the table is color coordinated to reflect its nature. 
 
 I created a record database, which is functional.
 
-I was able to create an app in Heroku (warm-beach-45850) and a database within that app via my terminal, but as of this writing, the Heroku app is not properly functioning.
+I was able to create an app in Heroku (pure-tor-26073ß) and a database within that app via my terminal, but as of this writing, the Heroku app is not properly functioning.
 
 https://github.com/jy8474np/anotherFinalProjectAttempt.git
 
