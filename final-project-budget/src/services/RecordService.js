@@ -7,5 +7,11 @@ export default {
         return axios.get(base_url).then(response => {
             return response.data
         })
+    },
+
+    addRecord(record) {
+        return axios.post(base_url, record).then( response => {
+            return response.data
+        })
     }
 }
